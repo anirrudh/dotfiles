@@ -1,5 +1,5 @@
-## Dotfiles Repository 
+# Dotfiles Repository 
 
-After nuking the last ~/.zshrc I had by accident, I decided to finally make a repo that
-will house all the dotfiles and settings if I ever need to move computers. Current setup is a Mac with iTerm,
-zsh, vim and tmux.
+This is a repo containing all my configuration files for my current development setup (more or less).
+Currently, I use: neovim, tmux, zsh, and iTerm2. 
+
