@@ -1,1 +1,0 @@
-/Users/anirrudhkrishnan/.zshrc
